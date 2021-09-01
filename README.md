@@ -22,28 +22,26 @@
 - 😄 Pronouns: he / him
 - 📫 How to reach me over: <a href="https://cem-yilmaz.de">my website</a> or
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cem-yilmaz-b28ab21b4">
-    <kbd>
-      <img width=64 height=64 src="https://cem-yilmaz.de/assets/linkedIn.webp"></img>
-    </kbd>
-  </a>
-  <a href="https://www.xing.com/profile/Cem_Yilmaz107/cv">
-    <kbd>
-      <img width=64 height=64 src="https://cem-yilmaz.de/assets/xing.webp"></img>
-    </kbd>
-  </a>
-  <a href="https://www.facebook.com/people/Cem-Yilmaz/100007441427885">
-    <kbd>
-      <img width=64 height=64 src="https://cem-yilmaz.de/assets/facebook.webp"></img>
-    </kbd>
-  </a>
-  <a href="https://www.instagram.com/yilmaz.cem.2603">
-    <kbd>
-      <img width=64 height=64 src="https://cem-yilmaz.de/assets/instagram.webp"></img>
-    </kbd>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/cem-yilmaz-b28ab21b4">
+  <kbd>
+    <img width=64 height=64 src="https://cem-yilmaz.de/assets/linkedIn.webp"></img>
+  </kbd>
+</a>
+<a href="https://www.xing.com/profile/Cem_Yilmaz107/cv">
+  <kbd>
+    <img width=64 height=64 src="https://cem-yilmaz.de/assets/xing.webp"></img>
+  </kbd>
+</a>
+<a href="https://www.facebook.com/people/Cem-Yilmaz/100007441427885">
+  <kbd>
+    <img width=64 height=64 src="https://cem-yilmaz.de/assets/facebook.webp"></img>
+  </kbd>
+</a>
+<a href="https://www.instagram.com/yilmaz.cem.2603">
+  <kbd>
+    <img width=64 height=64 src="https://cem-yilmaz.de/assets/instagram.webp"></img>
+  </kbd>
+</a>
 
 <!--
 **CemYil03/CemYil03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
