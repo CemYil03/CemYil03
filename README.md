@@ -18,7 +18,8 @@
 
 - 👨🏼‍💻 I’m: a vocational student at SAP headquarters in Walldorf
 - 🔭 I’m currently working on: a couple of full-stack projects
-- 🌱 I’m currently learning: about CI/CD and development tools
+- 🌱 I’m currently learning: GraphQL (code-first approach)
+- 👓 I’m looking forward to learn: GraphQL Schema Definition Language
 - 😄 Pronouns: he / him
 - 📫 How to reach me over: <a href="https://cem-yilmaz.de">my website</a> or
 
